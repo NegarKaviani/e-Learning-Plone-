@@ -227,7 +227,7 @@ export { default as App } from '@plone/volto/components/theme/App/App';
 
 
 
-///// My Custom Code Here
+// Custom Code Here
 
 import FullView from './FullView/FullView';
 

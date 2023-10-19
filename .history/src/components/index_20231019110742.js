@@ -225,10 +225,6 @@ export { default as Component } from '@plone/volto/components/theme/Component/Co
 
 export { default as App } from '@plone/volto/components/theme/App/App';
 
-
-
-///// My Custom Code Here
-
 import FullView from './FullView/FullView';
 
 export { FullView };

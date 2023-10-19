@@ -225,10 +225,7 @@ export { default as Component } from '@plone/volto/components/theme/Component/Co
 
 export { default as App } from '@plone/volto/components/theme/App/App';
 
+import SliderBlockEdit from "./Blocks/Slider/Edit";
+import SliderBlockView from "./Blocks/Slider/View";
 
-
-///// My Custom Code Here
-
-import FullView from './FullView/FullView';
-
-export { FullView };
+export { SliderBlockEdit, SliderBlockView };

@@ -224,11 +224,3 @@ export { default as Popup } from '@plone/volto/components/theme/Popup/Popup';
 export { default as Component } from '@plone/volto/components/theme/Component/Component';
 
 export { default as App } from '@plone/volto/components/theme/App/App';
-
-
-
-///// My Custom Code Here
-
-import FullView from './FullView/FullView';
-
-export { FullView };
